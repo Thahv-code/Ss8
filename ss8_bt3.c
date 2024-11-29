@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
+int main() {
     int num;
     printf("hay nhap mot so nguyen bat ki ");
     scanf("%d", &num);
